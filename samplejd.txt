@@ -1,0 +1,54 @@
+Developing various facets of the Hadoop Java/Hadoop ecosystem.
+Writing clear, efficient, tested code.
+Developing code as part of a wider team through pair programming and code reviews.
+Contributing to both program and system architecture.
+Evolving development standards and design patterns.
+Working with business partners to flesh out and deliver on requirements in an agile manner.
+Deploying and maintaining applications in production environments.
+Communicating and documenting solutions and design decisions.
+Understanding AWS standard methodologies.
+Around 5 years of Java or Scala programming.
+The Hadoop ecosystem – including Hive, Map Reduce, Azkaban, Airflow, Spark
+Agile development methodologies including scrum, code reviews, pair programming.
+Object oriented design and development and how to apply that to the data world
+Performance and scalability tuning, algorithms and computational complexity.
+Data Warehousing and ETL development and SQL
+AWS applications (S3, EC2, EMR, Lambda, SNS etc)
+All things Linux or Python (bash scripting, grep, sed, awk etc.)
+Processing massive structured and unstructured data sets.
+Relevant studies / BS or MS in Computer Science or related field.
+8+years strong development experience in at least one of the following languages: Java / Python / C++
+Development experience in Linux environments.
+Good knowledge of Javascript frameworks like Ember/Angular
+Troubleshoot performance, scalability bottlenecks and suggest solutions
+Excellent communication and collaboration skills.
+Good analytical and problem-solving skills.
+Ability to work effectively both independently and as part of a team.
+Experience (or demonstrated interest) in distributed computing or high availability systems is a plus.
+Big Data / NoSQL / distributed database experience is a plus.
+Previous open source contribution is a plus.
+Experience on techniques involving Regression, Corelation , CHAID,
+Master’s degree in Computer science / Statistics.
+Experience in modeling techniques - Demand Prediction & Pricing & machine learning Algos.
+Hands-on experience on data platforms: SQL, Hadoop, Hive.
+Strong at Excel, Macros, Data modeling – Hypothesis creation.
+Experience with R Analytics - a must.
+Exposure to Big Data Ecosystem is a must.
+Hands-on with Hadoop/MapReduce is a Plus.
+Expertise in a scripting Language – Python/Perl is a Must.
+BS, MS, or PhD in Computer Science or related discipline, plus 3+ years of relevant experience
+Excellent knowledge of Computer Science fundamentals, with strong competencies in problem solving, data structures, algorithms, software design and coding
+RESTful APIs and general API design
+Solid knowledge of Database technologies such as SQL, PL/SQL and relational database schema design
+Experience with Java, Python, Puppet, Kerberos, bash in a Linux/UNIX data center environment
+Experience with Agile development methodology and Continuous Integration/Delivery
+Track Record of being a top performer in current and past roles
+3-5 years of experience in data engineering / business intelligence space
+Strong understanding of ETL concepts and experience building them with large-scale, complex datasets using traditional or map reduce batch mechanism.
+Strong data modelling skills with solid knowledge of various industry standards such as dimensional modelling, star schemas etc
+Extremely proficient in writing performant SQL working with large data volumes
+Experience designing and operating very large Data Warehouses
+Experience with scripting for automation (e.g., UNIX Shell scripting, Python, Perl, Ruby).
+Good to have experience working on AWS stack
+Clear thinker with superb problem-solving skills to prioritize and stay focused on big needle movers
+Curious, self-motivated & a self-starter with a ‘can do attitude’. Comfortable working in fast paced dynamic environment.
